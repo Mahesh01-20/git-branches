@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+dev2 made some changes
+=======
+again and again
+new changes
+Collaboration
+=======
 
 dev2 made some change
 It is the file change done
@@ -31,3 +38,5 @@ madhuchetan made some changes
 =======
 Ham Aayush baani
 >>>>>>> 96a5ad0eba6bf6789895e60f17696259e7d128a8
+>>>>>>> 19679c736432d4f00678cd6664c9031884fa3734
+Change made by john 
