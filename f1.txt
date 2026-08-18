@@ -1,17 +1,33 @@
 
+dev2 made some change
+It is the file change done
+again and again
+new changes
+
+
 dev2 made some changes
 again and again
 new changes
+<<<<<<< HEAD
 >>>>>>> 1c7840310616cfe8a6f60d1ab5f5462b258b5f37
 this is f1.txt file
 =======
 madhuchetan made some changes
 >>>>>>> a4097446a160cc199dc8b6124f2c1630d8c45264
-jeeva made some changes
+jeeva made some changes f1.txt
+
 
 dev2 made some changes
 again and again
 new changes
+=======
+rakesh made change
+>>>>>>> 96a5ad0eba6bf6789895e60f17696259e7d128a8
 more changes
+>>>>>>> 29c43cd1f3dabf26ec3488bf6bb9a34411433514
 madhuchetan made some changes
+<<<<<<< HEAD
  a7f48c106b9b7b7201761ad93e5fef0b5f8fab34
+=======
+Ham Aayush baani
+>>>>>>> 96a5ad0eba6bf6789895e60f17696259e7d128a8
