@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dev2 made some changes 
 again and again
 helo this change is made by me 
