@@ -1,6 +1,5 @@
-dev2 made some changes
-<<<<<<< HEAD
-=======
+dev2 made some change
+It is the file change done
 again and again
 new changes
 >>>>>>> 1c7840310616cfe8a6f60d1ab5f5462b258b5f37
