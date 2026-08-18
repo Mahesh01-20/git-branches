@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 dev2 made some changes
 again and again
 new changes
@@ -8,3 +8,10 @@ this is f1.txt file
 madhuchetan made some changes
 >>>>>>> a4097446a160cc199dc8b6124f2c1630d8c45264
 jeeva made some changes
+
+dev2 made some changes
+again and again
+new changes
+more changes
+madhuchetan made some changes
+ a7f48c106b9b7b7201761ad93e5fef0b5f8fab34
